@@ -1,2 +1,4 @@
 *.pyc
 .git
+local_settings.py
+
